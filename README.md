@@ -106,9 +106,6 @@ jekyll server -P $port xxx
 ------------------------------------
 打开浏览器并输入URL`http://localhost:4000/`,回车。
 
-License
+为我们贡献源码
 ------------------------------------
-MIT License
-
-Copyright (c) 2019 max-studio
-
+请将代码fork于自己的仓库，并在作出改变之后，向我们的主仓库提出PR，如有任何问题，请发起issue
