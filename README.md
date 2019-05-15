@@ -102,3 +102,8 @@ jekyll server
 ------------------------------------
 打开浏览器并输入URL`http://localhost:4000/`,回车。
 
+License
+------------------------------------
+MIT License
+Copyright (c) 2016 MaX.Studio
+
