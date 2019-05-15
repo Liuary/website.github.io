@@ -96,7 +96,10 @@ tag: 教程
 ------------------------------------
 
 ``` bash
+# 一般情况
 jekyll server
+# jekyll默认使用 4000 端口，若是碰到端口冲突的情况，请使用以下命令
+jekyll server -P $port xxx
 ```
 
 效果
