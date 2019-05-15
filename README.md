@@ -17,7 +17,7 @@
 下载
 ------------------------------------
 
-使用git从[MaX.Studio](https://github.com/max-studio/website.github.io.git)主页下载项目
+使用git从[max-studio](https://github.com/max-studio/website.github.io.git)主页下载项目
 
 ``` bash
 git clone https://github.com/max-studio/website.github.io.git
