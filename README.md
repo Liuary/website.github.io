@@ -1,6 +1,9 @@
-# [MaX.计算机研究室的博客主站 V1.0](https://max-studio.github.io/website.github.io/)
+# MaX.计算机研究室的博客主站 V1.0
 ![building](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg) ![MIT](https://img.shields.io/crates/l/rustc-serialize.svg) 
 
+项目简介
+------------------------------------
+本项目基于 Jekyll + Github Pages 开发的轻量级静态页面博客，Jekyll 是一个简单、可扩展的静态站点生成器。用你喜欢的 标记语言书写内容并交给 Jekyll，它利用模板创建一个 静态网站。在整个处理过程中，你可以调整你想要的网址样式、 在模板中显示哪些数据等等。
 
 
 致谢
