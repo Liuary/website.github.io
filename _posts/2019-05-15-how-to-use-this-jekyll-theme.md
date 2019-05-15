@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  MaX.计算机研究室的博客主站
-date:   2019-05-15 12:55:00 +0800
+date:   2019-05-14 12:55:00 +0800
 categories: document
 tag: 教程
 ---
