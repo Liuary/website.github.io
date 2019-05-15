@@ -115,3 +115,15 @@ jekyll server -P $port xxx
 为我们贡献源码
 ------------------------------------
 请将代码fork于自己的仓库，并在作出改变之后，向我们的主仓库提出PR，如有任何问题，请发起issue
+
+## Contributors
+
+This project exists thanks to all the people who contribute.
+<a href="https://github.com/loremwalker/WebSiteUseful/graphs/contributors"><img src="https://opencollective.com/WebSiteUseful/contributors.svg?width=890&button=false" /></a>
+
+<!--
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/WebSiteUseful#backer)]
+
+<a href="https://opencollective.com/WebSiteUseful#backers" target="_blank"><img src="https://opencollective.com/WebSiteUseful/backers.svg?width=890"></a>
