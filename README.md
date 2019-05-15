@@ -105,6 +105,6 @@ jekyll server
 License
 ------------------------------------
 MIT License
-Copyright (c) 2016 
-MaX.Studio
+
+Copyright (c) 2019 MaX.Studio
 
