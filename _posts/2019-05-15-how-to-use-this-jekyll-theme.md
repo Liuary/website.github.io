@@ -24,7 +24,7 @@ tag: 教程
 下载							{#Download}
 ------------------------------------
 
-使用git从[LSunling-CC](https://github.com/Sunling-CC/sunling.github.io.git)主页下载项目
+使用git从[Sunling-CC](https://github.com/Sunling-CC/sunling.github.io.git)主页下载项目
 
 ```bash
 git clone https://github.com/luoyan35714/LessOrMore.git
