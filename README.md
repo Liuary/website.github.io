@@ -20,7 +20,7 @@
 使用git从[MaX.Studio](https://github.com/max-studio/website.github.io.git)主页下载项目
 
 ``` bash
-git clone https://github.com/luoyan35714/LessOrMore.git
+git clone https://github.com/max-studio/website.github.io.git
 ```
 
 配置
