@@ -1,5 +1,5 @@
 # MaX.计算机研究室的博客主站
-![MIT](https://img.shields.io/apm/l/vim-mode.svg) 
+![building](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg) ![MIT](https://img.shields.io/apm/l/vim-mode.svg) 
 
 
 致谢
