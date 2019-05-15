@@ -1,7 +1,7 @@
-# MaX.计算机研究室的博客主站 V1.0
+# [MaX.计算机研究室的博客主站 V1.0](https://max-studio.github.io/website.github.io/)
 ![building](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg) ![MIT](https://img.shields.io/crates/l/rustc-serialize.svg) 
 
-[博客地址](https://max-studio.github.io/website.github.io/)
+
 
 致谢
 ====================================
