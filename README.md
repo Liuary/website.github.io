@@ -1,4 +1,4 @@
-# MaX.计算机研究室的博客主站
+# MaX.计算机研究室的博客主站 V1.0
 ![building](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg) ![MIT](https://img.shields.io/crates/l/rustc-serialize.svg) 
 
 
