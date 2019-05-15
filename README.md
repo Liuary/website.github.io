@@ -53,6 +53,10 @@ revolvermaps: 5ytn1ssq6za
 关于统计
 ------------------------------------
 
++ [谷歌分析](https://analytics.google.com/)
+
+Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。Google 分析（Analytics）现在是互联网上使用最广泛的网络分析服务 Google Analytics 还提供了一个SDK，允许从iOS和Android应用程序收集使用数据。注意，部署该服务时需要翻墙。
+
 + [百度统计](https://tongji.baidu.com)
 
 百度统计是后台统计，并没有再页面有任何展示，但是可以通过登录百度统计官网查看更详细的访问记录分析。
@@ -68,11 +72,6 @@ revolvermaps地图统计是展示在左侧当行栏的地图展示，具体展�
 不蒜子统计是出现在页面右上角的`本站总访问量n次`统计，本统计会自动识别客户所对应的域名，根据不同域名统计，所以并不需要Fork本项目者做任何修改。
 更多不蒜子的展示方式可以去官网查看。
 
-而后又新增了 Google Analysis 功能，
-
-+ [谷歌分析](https://analytics.google.com/)
-
-Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。Google 分析（Analytics）现在是互联网上使用最广泛的网络分析服务 Google Analytics 还提供了一个SDK，允许从iOS和Android应用程序收集使用数据。注意，部署该服务时需要翻墙。
 
 如何写文章
 ------------------------------------
