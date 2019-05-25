@@ -1,12 +1,12 @@
-﻿# Site settings
+# Site settings
 name: MaX.计算机研究室
 email: sunling.me@gmail.com
 author: sunling
-url: https://github.com/Sunling-CC
-resume_site: https://github.com/Sunling-CC
+url: https://github.com/chungling
+resume_site: https://github.com/chungling
 github: https://github.com/max-studio
 # baseurl: "/LessOrMore"
-description: Actually, less is more!
+description: 欢迎来到 MaX.计算机研究室
 meta_description: MaX.计算机研究室;学而不思则罔;思而不学则殆;生命不止;折腾不休
 motto: 欢迎来到 MaX.计算机研究室
 banner: 学而不思则罔，思而不学则殆。
