@@ -90,6 +90,8 @@ st->op->op2->op3->en
 打开Visual studio……
 额好麻烦，假装你们都会创建一个新项目8
 ![创建一个项目](http://119.23.24.92:39999/video/创建一个新项目.mp4)
+<video src="http://119.23.24.92:39999/video/创建一个新项目.mp4" controls=""></video>
+<br/>
 点击上面这个就可以看怎么用VS创建一个新项目了
 <br/>
 
