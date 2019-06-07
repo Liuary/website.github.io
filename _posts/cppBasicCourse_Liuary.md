@@ -1,3 +1,17 @@
+---
+layout: post
+#标题配置
+title:  C++基础教程
+#时间配置
+date:   2019-06-07 12:00:00 +0800
+#大类配置
+categories: document
+#小类配置
+tag: 教程
+---
+
+* content
+{:toc}
 #C++基础教程系列
 ---
 
