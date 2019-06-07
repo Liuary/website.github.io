@@ -4,10 +4,8 @@ layout: post
 title:  C++基础教程
 #时间配置
 date:   2019-06-07 12:00:00 +0800
-#大类配置
-categories: document
-#小类配置
-tag: 教程
+categories: 博文
+tag: 博文
 ---
 
 * content
